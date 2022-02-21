@@ -1,2 +1,2 @@
 # hello-world
-Aerospace enginer with Matlab experience building Python experience.
+Aerospace enginer with Matlab experience building Python knowledge.
